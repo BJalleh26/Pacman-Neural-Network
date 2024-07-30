@@ -1,4 +1,4 @@
-# Pacman-Classifier
+# Pacman-Neural-Network-Classifier
 
 ## Overview
 
